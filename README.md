@@ -1,6 +1,6 @@
 # Trybe - Exercícios
 
-Vão conter Todas os Projetos e Atividades feitas por __[mim](https://www.linkedin.com/in/lyudevjr/)__ durante minha tragetória na [Trybe]
+Vão conter Todas os Projetos e Atividades feitas por __[mim](https://www.linkedin.com/in/luis-henry/)__ durante minha tragetória na [Trybe]
 
 
 ## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
