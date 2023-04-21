@@ -198,4 +198,4 @@ Vão conter Todas os Projetos e Atividades feitas por __[mim](https://www.linked
 - [] - Projetos - Car Shop
 
 ##### Bloco 29: App de Delivery
-- [ ]- App de Delivery
+- []- App de Delivery
