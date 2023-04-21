@@ -1,4 +1,4 @@
-"# Trybe - Exercícios
+# Trybe - Exercícios
 
 Vão conter Todas os Projetos e Atividades feitas por __[mim](https://www.linkedin.com/in/lyudevjr/)__ durante minha tragetória na [Trybe]
 
@@ -198,5 +198,4 @@ Vão conter Todas os Projetos e Atividades feitas por __[mim](https://www.linked
 - [] - Projetos - Car Shop
 
 ##### Bloco 29: App de Delivery
-- []- App de Delivery
-gio
+- [ ]- App de Delivery
