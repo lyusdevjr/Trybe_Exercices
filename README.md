@@ -3,7 +3,7 @@
 Vão conter Todas os Projetos e Atividades feitas por __[mim](https://www.linkedin.com/in/lyudevjr/)__ durante minha tragetória na [Trybe]
 
 
-## Fundamentos do Desenvolvimento Web :heavy_check_mark:
+## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
 
 ##### Bloco 1: [Unix, Shell e Git]
 - [x] - Fundamentos do Desenvolvimento Web
@@ -63,7 +63,7 @@ Vão conter Todas os Projetos e Atividades feitas por __[mim](https://www.linked
 - [ ] - JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters
 - [ ] - Projeto - Zoo functions
 
-## Desenvolvimento Front-end :heavy_check_mark:
+## Desenvolvimento Front-end :hourglass_flowing_sand:
 
 ##### Bloco 8: [Introdução ao Frontend e JavaScript assíncrono]
 - [ ] - Ambiente de desenvolvimento
