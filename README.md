@@ -12,8 +12,8 @@ Vão conter Todas os Projetos e Atividades feitas por __[mim](https://www.linked
 - [x] - Git & GitHub - Entendendo os comandos
 
 ##### Bloco 2: [Introdução à HTML e CSS]
-- [ ] - Introdução - HTML & CSS
-- [ ] - HTML & CSS - Estruturas de página
+- [x] - Introdução - HTML & CSS
+- [x] - HTML & CSS - Estruturas de página
 - [ ] - HTML & CSS - Primeiros passos em CSS
 - [ ] - HTML & CSS - Seletores e posicionamento
 - [ ] - HTML Semântico
