@@ -3,199 +3,47 @@
 Vão conter Todas os Projetos e Atividades feitas por __[mim](https://www.linkedin.com/in/lyudevjr/)__ durante minha tragetória na [Trybe]
 
 
-## Fundamentos do Desenvolvimento Web :heavy_check_mark:
+Olá, pessoa estudante!
 
-##### Bloco 1: [Unix, Shell e Git]
-- [x] - Fundamentos do Desenvolvimento Web
-- [x] - Introdução - Unix, Shell e Git
-- [x] - Git & GitHub  - O que é e para que serve
-- [x] - Git & GitHub - Entendendo os comandos
+No conteúdo de hoje, você vai estudar os seguintes conceitos:
 
-##### Bloco 2: [Introdução à HTML e CSS]
-- [] - Introdução - HTML & CSS
-- [] - HTML & CSS - Estruturas de página
-- [] - HTML & CSS - Primeiros passos em CSS
-- [] - HTML & CSS - Seletores e posicionamento
-- [] - HTML Semântico
-- [] - Projeto - Lessons Learned
+O que é JavaScript, como ele surgiu e para que é utilizado.
 
-##### Bloco 3: [Introdução à JavaScript]
-- [] - Introdução - JavaScript
-- [] - JavaScript - Primeiros passos
-- [] - JavaScript - Array e loop For
-- [] - JavaScript - Funções
-- [] - JavaScript - Objetos
-- [] - JavaScript - JavaScript ES6 - let,consta arrow functions e template literais
-- [] - Projeto - Playground Functions
+Variáveis: forma de guardar dados e utilizá-los no código.
 
-##### Bloco 4: [JavaScript: DOM, Eventos e Web Storage]
-- [] - JavaScript - DOM e seletores
-- [] - JavaScript - Trabalhando com elementos
-- [] - JavaScript - Eventos
-- [] - JavaScript - Web Storage
-- [] - Projeto - Arte com Piels
-- [] - Projeto - Lista de tarefas
-- [] - (Bônus) Projeto - Projeto Lista de tarefas
-- [] - (Bônus) Projeto - Projeto Meme Generator
-- [] - (Bônus) Projeto - Adivinhe a cor
-- [] - (Bônus) Projeto - Prrojeto Carta Misteriosa
+Tipos primitivos: tipos de dados principais do JavaScript, como textos (string), números (number) e booleanos (verdadeiro e falso).
 
-##### Bloco 5: [HTML e CSS: Forms, Flebox e Responsivo]
-- [] - HTML & CSS - Forms
-- [] - Bibliotecas JavaScript e Frameworks CSS
-- [] - Introdução - CSS Flebox
-- [] - CSS Flebox - Parte 1
-- [] - CSS Flebox- Parte 2
-- [] - CSS Responsivo - Mobile First
-- [] - Projeto - Trybewarts
+Tipagem dinâmica: processo em que não é preciso informar para o JavaScript o valor de um dado, pois ele já identifica, por padrão, se é um texto, um número ou um booleano.
 
-##### Bloco 6: [Introdução à JavaSCript ES6 E Teste Unitários]
-- [] - Fluxo de Exceções e manipulação de objetos
-- [] - Primeiros passos em Jest
-- [] - Matchers e cobertura de código 
-- [] - Projeto - JavaScript Testes Unitários
+Operadores de atribuição: quando atribuímos valor, por exemplo: x = y (x recebe y).
 
-##### Bloco 7: [Higher Order Functions do JavaScript ES6]
-- [] - Introdução a Higher Order Functions
-- [] - Higher Order Functions - sort e map
-- [] - Higher Order Functions - filter reduce
-- [] - JavaScript ES6 - spread operator, rest parameters e objects destructuring
-- [] - JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters
-- [] - Projeto - Zoo functions
+Operadores aritméticos: operadores que realizam operações como adição (+), subtração (-), multiplicação (*) e divisão (/).
 
-## Desenvolvimento Front-end :heavy_check_mark:
+Operadores lógicos: operadores que auxiliam na construção da lógica de programação, por exemplo:
 
-##### Bloco 8: [Introdução ao Frontend e JavaScript assíncrono]
-- [] - Ambiente de desenvolvimento
-- [] - JavaScript Assíncrono - Promisses e fetch
-- [] - Prática - Casa de câmbio
-- [] - Async, await e teste assíncronos
-- [] - Projeto - Carrinho de compras
+=== (igual em tipo e valor);
+&& (e);
+|| (ou).
+Estruturas condicionais como if/else e switch/case: estruturas que retornam respostas de acordo como uma condição, por exemplo: “Se o operador for de adição, realize a soma. Senão, realize a subtração”.
 
+Por que isso é importante?
+Inúmeros motivos atestam a importância desse passo, mas vamos falar sobre três deles:
 
-##### Bloco 9: [Introdução à React]
-- [] - 'Hello, world!' no React!
-- [] - Componentes React
-- [] - Projeto - Solar System
+JavaScript é popular: Nos últimos 10 anos, o JavaScript vem sendo a linguagem de programação mais popular do mundo, segundo essa pesquisa de 2022 do Stack Overflow.
 
-##### Bloco 10: [Componentes com Estado, Eventos e Formulários com React]
-- [] - Componentes com estado e eventos
-- [] - Formulários no React
-- [] - Projeto - Tryunfo
+Ele é responsável pela grande maioria das interações em tempo real na web que são possíveis atualmente. Sabe quando você está em uma página com um chat e as mensagens chegam “sozinhas” ou quando você acessa um perfil diferente no Facebook, mas seu navegador, em vez de carregar a página do zero, carrega somente o que de fato mudou nela? Isso é JavaScript 🙂.
 
-##### Bloco 11: [Ciclo de Vida de Componentes e React Router]
-- [] - Ciclo de vida de componentes
-- [] - React Router
-- [] - Projeto - TryberTunes
+JavaScript é versátil: O uso do JavaScript na web é bem óbvio, pois esse é o ambiente em que ele surgiu. No entanto, o JavaScript possui bibliotecas, frameworks e ambientes runtime, que permitem que você use JavaScript para muitas outras coisas, como:
 
-##### Bloco 12: [Metodologias Ágeis]
-- [] - Metodologias Ágeis
-- [] - Projeto - Frontend Online Store
+Código que roda no servidor (back-end), como o Node;
+Acesso e manipulação de bancos de dados por meio de diversos drivers;
+Aplicativos mobile nativos, como o React Native;
+Aplicativos desktop, como o Electron.
+Todos esses usos já foram e são feitos por empresas de todos os portes. Assim, aprender JavaScript é a porta para um mundo de infinitas possibilidades. 🚀
 
-##### Bloco 13: [Testes automatizados com React Testing Library]
-- [] - RTL - Primeiros passos
-- [] - RTL - Mocks e Inputs
-- [] - RTL - Testando React Router
-- [] - Projeto - Testes em React
+JavaScript é a base para o curso da Trybe: Por último, mas não menos importante, o JavaScript é o fundamento principal da maior parte do curso da Trybe, tanto agora, no módulo de Fundamentos, quanto mais adiante, nos módulos de Front-end e Back-end. É de vital importância ter conhecimento de JavaScript para entender React, Redux, Jest, Node e todas as outras ferramentas que você vai adicionar à sua caixa.
 
-##### Bloco 14: [Gerenciamento de estado com Redu]
-- [] - Introdução ao Redux - O estado global da aplicação
-- [] - Usando o Redux no React
-- [] - Usando o Redux no React - Prática
-- [] - Usando o Redux no React - Actions Assíncronas
-- [] - Testes síncronos com React-Redux
-- [] - Testes em React-Redux
-- [] - Projeto - Trybe Wallet
+Por fim, saiba que é muito importante aprender JavaScript e ter foco. Não se preocupe, esse é só o primeiro passo no mundo da programação.
 
+Tenha em mente que JavaScript é uma linguagem de programação e, como tal, é apenas uma ferramenta. Seu verdadeiro trabalho e objetivo é resolver problemas. O mais importante é que você aprenda a programar e a aprender! Assim, o JavaScript é a principal ferramenta que vai te ajudar a alcançar esse objetivo.
 
-##### Bloco 15: Projeto Jogo de Trivia
-- [] - Projeto - Jogo de Trivia
-
-##### Bloco 16: [Contet API e React Hooks]
-- [] - Contet API do React
-- [] - React Hooks - useState e useContet
-- [] - React Hooks - useEffect e Hooks customizados
-- [] - Projeto - StarWars Datatable com Contet API e Hooks
-
-##### Bloco 17: Projeto App de Receitas
-- [] - Projeto - App de Receitas
-
-## Desenvolvimento Back-end :hourglass_flowing_sand:
-
-##### Bloco 18: [Docker: Ultilizando Containers]
-- [] - Ultilizando Containers - Docker
-- [] - Manipulando Imagens no Docker
-- [] - Orquestrando Containers com Docker Compose
-- [] - Projeto Docker Todo-List
-
-##### Bloco 18: [Introdução à SQL]
-- [] - Introdução - Back-end
-- [] - Introdução - Bancos de dados relacionais
-- [] - Banco de dados SQL
-- [] - Encontrando dados em um banco de dados
-- [] - Filtrando dados de forma específica
-- [] - Manipulando tabelas
-- [] - Projeto - All For One
-
-##### Bloco 19: [Funções SQL, Joins e Subqueries]
-- []  - Funções mais usadas no SQL
-- []  - Descomplicando JOINs
-- []  - Transformando ideias em um modelo de banco de dados
-- []  - Aula ao vivo + Projeto - One For All
-
-##### Bloco 20: [Introdução ao desenvolvimento WEb com Node.js]
-- []  - Node.js: Runtime Assíncrono
-- []  - Node.js: API REST com Express
-- []  - Node.js: Testes de integração
-- []  - Node:js: Express e Middlewares
-- []  - Node.js: Express MySQL
-- []  - Projeto - Talker Manager
-##### Bloco 21: [Arquitetura de Software: Model, Services e Controller]
-- [] - Arquitetura de Software: Camada Model
-- [] - Arquitetura de Software: Camada Service
-- [] - Arquitetura de Software: Camada Controller
-- [] - Projeto - Store Manager
-
-##### Bloco 22: [Node.js: ORM e Autenticação]
-- [] - ORM - Interface da aplicação com o banco de dados
-- [] - ORM - Associations 1:1 e 1:N
-- [] - ORM - Associations N:N e Transactions
-- [] - JWT - (JSON Web Token)
-
-##### Bloco 23: [Masterclass: Implantação de Aplicações na Nuvem]
-- [] - Infraestrutura: Deploy com Railway
-
-
-##### Bloco 24: [Introdução TypeScript]
-- [] - Intro - TypeScript
-- [] - Tipagem Estática e Generics
-- [] - Express com TypeScript
-- [] - Projeto - Trybesmith
-
-##### Bloco 25: [Programação Orientada a Obetos(POO) e SOLID]
-- [] - Introdução - Orientação a Objetos
-- [] - Herança e Composição
-- [] - Polimorfismo
-- [] - SOLID - Introdução e Princípios S, O E D
-- [] - Princípios L e i
-- [] - Projeto - Trybers and Dragons
-
-##### Bloco 26: [Projeto - TCC - Trybe Futebol Clube]
-- [] - Projeto - TFC -  Trybe Futebol Clube
-
-
-##### Bloco 27: [Introdução ao MongoDB]
-- [] - Introdução - MongoDB
-- [] - Filter Operators
-- [] - Operadores de consulta
-- [] - Updates Simples
-- [] - Updates Complexos - Arrays
-- [] - Projeto - Commerce
-
-##### Bloco 28: APIs OO e NoSQL
-- [] - APIs Orientadas e Objetos e NoSQL: POO e ODMs
-- [] - APIs Orientadas e Objetos e NoSQL: Herança e Abstração
-- [] - Projetos - Car Shop
-
-##### Bloco 29: App de Delivery
-- [ ]- App de Delivery
