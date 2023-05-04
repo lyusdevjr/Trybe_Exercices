@@ -1,4 +1,4 @@
-let xadrez = "EguA"
+let xadrez = "cavalo"
 
 switch  (xadrez.toLowerCase()) {
   case 'torre':
