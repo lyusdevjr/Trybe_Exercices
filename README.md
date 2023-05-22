@@ -15,25 +15,25 @@ Vão conter Todas os Projetos e Atividades feitas por __[mim](https://www.linked
 - [x] - Introdução - HTML & CSS
 - [x] - HTML & CSS - Estruturas de página
 - [x] - HTML & CSS - Primeiros passos em CSS
-- [ ] - HTML & CSS - Seletores e posicionamento
-- [ ] - HTML Semântico
-- [ ] - Projeto - Lessons Learned
+- [x] - HTML & CSS - Seletores e posicionamento
+- [x] - HTML Semântico
+- [x] - Projeto - Lessons Learned
 
 ##### Bloco 3: [Introdução à JavaScript]
-- [ ] - Introdução - JavaScript
-- [ ] - JavaScript - Primeiros passos
-- [ ] - JavaScript - Array e loop For
-- [ ] - JavaScript - Funções
-- [ ] - JavaScript - Objetos
-- [ ] - JavaScript - JavaScript ES6 - let,consta arrow functions e template literais
-- [ ] - Projeto - Playground Functions
+- [x] - Introdução - JavaScript
+- [x] - JavaScript - Primeiros passos
+- [x] - JavaScript - Array e loop For
+- [x] - JavaScript - Funções
+- [x] - JavaScript - Objetos
+- [x] - JavaScript - JavaScript ES6 - let,consta arrow functions e template literais
+- [x] - Projeto - Playground Functions
 
 ##### Bloco 4: [JavaScript: DOM, Eventos e Web Storage]
-- [ ] - JavaScript - DOM e seletores
-- [ ] - JavaScript - Trabalhando com elementos
-- [ ] - JavaScript - Eventos
-- [ ] - JavaScript - Web Storage
-- [ ] - Projeto - Arte com Piels
+- [x] - JavaScript - DOM e seletores
+- [x] - JavaScript - Trabalhando com elementos
+- [x] - JavaScript - Eventos
+- [x] - JavaScript - Web Storage
+- [x] - Projeto - Arte com Piels
 - [ ] - Projeto - Lista de tarefas
 - [ ] - (Bônus) Projeto - Projeto Lista de tarefas
 - [ ] - (Bônus) Projeto - Projeto Meme Generator
